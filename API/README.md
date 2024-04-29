@@ -16,7 +16,7 @@ Api de gerenciamento/agendamento de impressora 3D
 - Sequelize
 - MySQL
 - Cyclic
--
+
 
 
 ## Documentação da API
